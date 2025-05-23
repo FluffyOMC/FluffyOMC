@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="left">Heyya!👋 I'm Auron!</h1>
+<p align="left">
+  I'm a tech enthusiest that's basically all over the place! I like multiplayer games, Vocaloid, electronic music, and messing with code!
+</p>
 
-<!--
-**FluffyOMC/FluffyOMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have a copy of Synthesizer V Studio 2 Pro, along with 3 voicebanks!
 
-Here are some ideas to get you started:
+## 🧰 My usual tools I use!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <p>Software:</p>
+    <img src="https://skillicons.dev/icons?i=vscode,git,unity,krita" />
+    <p>Languages/Frameworks:</p>
+    <img src="https://skillicons.dev/icons?i=rust,python,cs,dotnet,markdown" />
+  </a>
+</p>
+
+## 📊 Stats
+
+[![Caroline's Github Stats](https://github-readme-stats.vercel.app/api?username=FluffyOMC)](https://github.com/FluffyOMC)
+
+## 🏆 Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=FluffyOMC&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
