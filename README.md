@@ -19,8 +19,8 @@
 
 ## 📊 Stats
 
-[![Caroline's Github Stats](https://github-readme-stats.vercel.app/api?username=FluffyOMC)](https://github.com/FluffyOMC)
+[![FluffyOMC's GitHub stats](https://github-readme-stats.vercel.app/api?username=FluffyOMC&show_icons=true&theme=transparent)](https://www.github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=FluffyOMC&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=FluffyOMC&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
